@@ -1,0 +1,2 @@
+﻿FeatureDetection.obj : error LNK2019: unresolved external symbol "public: static struct cv::Ptr<class cv::xfeatures2d::SURF> __cdecl cv::xfeatures2d::SURF::create(double,int,int,bool,bool)" (?create@SURF@xfeatures2d@cv@@SA?AU?$Ptr@VSURF@xfeatures2d@cv@@@3@NHH_N0@Z) referenced in function main
+C:\Users\Bizruntime-56\Documents\Visual Studio 2015\Projects\opencv\FeatureDetection\x64\Debug\FeatureDetection.exe : fatal error LNK1120: 1 unresolved externals
